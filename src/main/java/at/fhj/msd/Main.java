@@ -10,6 +10,8 @@ System.out.println(calc.minus(7, 21));
 System.out.println(calc.divide(7, 21));
 System.out.println(calc.multiply(21, 7));
 
+System.out.println("Casper Zielinski");
+
 
 }
 

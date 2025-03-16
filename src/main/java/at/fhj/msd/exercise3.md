@@ -5,6 +5,8 @@
 3. ``Main.java`` erstellt
 4. In ``Main.java`` die Calculator Methoden getestet (In Pictures mit Bildern sichtbar)
 5. Neue Dateien/Ordner: Calculator.class & Main.class
+6. Die pom.xml Datei bearbeitet das mvn compile funktioniert und getestes (In pictures ein Bild vom Output)
+7. Die pom.xml Datei bearbeitet das mvn exec:java funktioniert und getesten (In pictures ein Bild vom Output)
 
 ## Pictures
 
@@ -21,3 +23,6 @@
 >
 >Erfolgreicher Build mittels ``mvn compile``
 ![mvn_compile](resources/images/MVNComp.png)
+>
+>Erfolgreicher Durchlauf mittels ``mvn exec:java``
+![mvn_exec:java](resources/images/mvn_exec__java.png)
